@@ -57,6 +57,9 @@ Created DAX measures to calculate candidate totals, active candidates, hires, re
 - Rejection and withdrawal reason analysis.
 - More detailed recruiter performance reporting.
 
+## Dashboard Preview
+
+![Recruitment Analytics Dashboard](Dashboard%20recruitment%20picture.png)
 ## Skills Demonstrated
 
 Power BI | DAX | KPI Reporting | Data Visualisation | Data Analysis | Dashboard Design | Recruitment Analytics
